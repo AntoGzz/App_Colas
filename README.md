@@ -16,6 +16,7 @@ Application for the registration of a client, it will be assigned to one of the 
 
 - Run the `php artisan update command`
 - Copy `.env_example` y rename `.env`
+- Run `php artisan key:generate`
 - Create a database called `app_colas`
 - Run `php artisan migrate: fresh –seed`
 - Run `php artisan serve`
