@@ -20,6 +20,7 @@ Application for the registration of a client, it will be assigned to one of the 
 - Create a database called `app_colas`
 - Run `php artisan migrate: fresh –seed`
 - Run `php artisan serve`
+- Open your browser and go to the path `http://127.0.0.1:8000/clients`
 
 ## Images
 ![image](https://user-images.githubusercontent.com/23372415/118381513-9c40c600-b5b9-11eb-8b82-e052be66c2d9.png)
